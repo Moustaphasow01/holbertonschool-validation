@@ -1,5 +1,3 @@
-Exercice d'initiation devops avec HUGO
-
 ## Commands:
 help:   Show commands comments
 build:  Generate the website from the markdown language
